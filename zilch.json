@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Beaming Boar",
+  "avatar": "aaaaGaa-cinHbeeaa",
+  "preferredColor": "gold",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
